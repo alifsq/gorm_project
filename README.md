@@ -16,12 +16,11 @@ Learning project for **GORM & GORM Gen** with Go and MySQL.
 
 ### Tech Stack
 
+### Tech Stack
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gorm/gorm-original.svg" width="40" height="40" alt="GORM"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=go,mysql" />
 </p>
+
 
 **Go · GORM · GORM Gen · MySQL · Viper · Testify**
