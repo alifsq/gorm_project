@@ -2,7 +2,7 @@
 
 Learning project for **GORM & GORM Gen** with Go and MySQL.
 
-## What I Learned Today
+## What I Learned Day 1
 
 * Basic **GORM CRUD** & database connection.
 * **GORM Gen** untuk generate model dan type-safe query.
@@ -13,6 +13,15 @@ Learning project for **GORM & GORM Gen** with Go and MySQL.
 * Penggunaan `TestMain` untuk setup testing.
 * Membuat command testing dengan **Makefile**.
 * Konfigurasi `.env` menggunakan **Viper**.
+
+## What I Learned Day 2
+
+* **Update** data menggunakan GORM Gen.
+* **Pagination** menggunakan `Order()`, `Limit()`, dan `Offset()`.
+* **Transaction** dan **Rollback** menggunakan GORM.
+* **Query & Filtering** menggunakan `Where()`, `First()`, `Take()`, dan `Like()`.
+* **Testing** untuk query, pagination, transaction, rollback, dan update.
+
 
 ### Tech Stack
 
